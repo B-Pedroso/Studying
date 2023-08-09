@@ -1,0 +1,28 @@
+{
+  "name": "day3",
+  "version": "1.0.0",
+  "description": "Primeiro Projeto Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon .",
+    "prod": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/B-Pedroso/Studying.git"
+  },
+  "keywords": [
+    "studying"
+  ],
+  "author": "Bruno Pedroso de Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/B-Pedroso/Studying/issues"
+  },
+  "homepage": "https://github.com/B-Pedroso/Studying#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
